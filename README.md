@@ -44,7 +44,7 @@ class Neuron:
 
 ---
 
-## ✅ Example Usage
+##  Example Usage
 
 ```python
 from neuron import Neuron  # The class is saved in Live coding - Neuron .ipynb
@@ -58,7 +58,7 @@ print("Activated Output:", n.A)
 
 ---
 
-## ⚠️ Error Handling
+##  Error Handling
 
 ```python
 n = Neuron("3")   # Raises TypeError: nx must be an integer
@@ -67,7 +67,7 @@ n = Neuron(0)     # Raises ValueError: nx must be a positive integer
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project-folder/
@@ -78,7 +78,7 @@ project-folder/
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 * Python 3.x
 * NumPy
@@ -91,7 +91,7 @@ pip install numpy
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 You can test this class in a Python script or interactive shell. For unit testing, consider using `unittest` or `pytest`.
 

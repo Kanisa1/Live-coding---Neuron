@@ -47,7 +47,7 @@ class Neuron:
 ## ✅ Example Usage
 
 ```python
-from neuron import Neuron  # Assuming the class is saved in neuron.py
+from neuron import Neuron  # The class is saved in Live coding - Neuron .ipynb
 
 n = Neuron(3)
 

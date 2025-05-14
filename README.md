@@ -1,13 +1,13 @@
 ### 📄 `README.md`
 
 ````markdown
-# 🧠 Neuron Class for Binary Classification
+### Neuron Class for Binary Classification
 
 This project defines a `Neuron` class in Python that simulates a single neuron used for binary classification tasks in machine learning.
 
 ---
 
-## 📌 Features
+### Features
 
 - Validates input for number of features (`nx`)
 - Initializes:
@@ -17,7 +17,7 @@ This project defines a `Neuron` class in Python that simulates a single neuron u
 
 ---
 
-## 🧠 Class Definition
+### Class Definition
 
 ```python
 class Neuron:
@@ -36,7 +36,7 @@ class Neuron:
 
 ---
 
-## 📥 Public Attributes
+### Public Attributes
 
 * `W`: Weights vector (NumPy array)
 * `b`: Bias (float)
@@ -100,6 +100,7 @@ You can test this class in a Python script or interactive shell. For unit testin
 ## ✍️ Author
 
 **Kanisa**
+
 **Jolly**
 
 
